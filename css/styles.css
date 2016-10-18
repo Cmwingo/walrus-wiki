@@ -1,0 +1,43 @@
+img {
+  float: left;
+  padding-left: 20px;
+  padding-right: 10px;
+}
+
+#clickable-culture {
+  cursor: pointer;
+  color: #00ffcc;
+}
+
+#clickable-culture:hover {
+  text-decoration: underline;
+}
+#clickable-migration {
+  cursor: pointer;
+  color: #00ffcc;
+}
+
+#clickable-migration:hover {
+  text-decoration: underline;
+}
+
+#clickable-predation {
+  cursor: pointer;
+  color: #00ffcc;
+}
+
+#clickable-predation:hover {
+  text-decoration: underline;
+}
+
+#culture {
+  display: none;
+}
+
+#migration {
+  display: none;
+}
+
+#predation {
+  display: none;
+}
